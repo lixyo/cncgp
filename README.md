@@ -1,2 +1,1 @@
 #SentinelOne
-Déploiement SentinelOne
